@@ -16,6 +16,7 @@ void FillArray()
     }
     return;
 }
+
 FillArray();
 Console.WriteLine();
 
